@@ -1,0 +1,14 @@
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\04Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\04Exercise.AssemblyInfoInputs.cache
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\04Exercise.AssemblyInfo.cs
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\04Exercise.csproj.CoreCompileInputs.cache
+D:\orientacao-a-objetos\04Exercise\bin\Debug\net8.0\04Exercise.exe
+D:\orientacao-a-objetos\04Exercise\bin\Debug\net8.0\04Exercise.deps.json
+D:\orientacao-a-objetos\04Exercise\bin\Debug\net8.0\04Exercise.runtimeconfig.json
+D:\orientacao-a-objetos\04Exercise\bin\Debug\net8.0\04Exercise.dll
+D:\orientacao-a-objetos\04Exercise\bin\Debug\net8.0\04Exercise.pdb
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\04Exercise.dll
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\refint\04Exercise.dll
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\04Exercise.pdb
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\04Exercise.genruntimeconfig.cache
+D:\orientacao-a-objetos\04Exercise\obj\Debug\net8.0\ref\04Exercise.dll

@@ -1,0 +1,14 @@
+D:\orientacao-a-objetos\13Abstraction\bin\Debug\net8.0\13Abstraction.exe
+D:\orientacao-a-objetos\13Abstraction\bin\Debug\net8.0\13Abstraction.deps.json
+D:\orientacao-a-objetos\13Abstraction\bin\Debug\net8.0\13Abstraction.runtimeconfig.json
+D:\orientacao-a-objetos\13Abstraction\bin\Debug\net8.0\13Abstraction.dll
+D:\orientacao-a-objetos\13Abstraction\bin\Debug\net8.0\13Abstraction.pdb
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\13Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\13Abstraction.AssemblyInfoInputs.cache
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\13Abstraction.AssemblyInfo.cs
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\13Abstraction.csproj.CoreCompileInputs.cache
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\13Abstraction.dll
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\refint\13Abstraction.dll
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\13Abstraction.pdb
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\13Abstraction.genruntimeconfig.cache
+D:\orientacao-a-objetos\13Abstraction\obj\Debug\net8.0\ref\13Abstraction.dll

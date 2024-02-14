@@ -1,0 +1,14 @@
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\06Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\06Encapsulation.AssemblyInfoInputs.cache
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\06Encapsulation.AssemblyInfo.cs
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\06Encapsulation.csproj.CoreCompileInputs.cache
+D:\orientacao-a-objetos\06Encapsulation\bin\Debug\net8.0\06Encapsulation.exe
+D:\orientacao-a-objetos\06Encapsulation\bin\Debug\net8.0\06Encapsulation.deps.json
+D:\orientacao-a-objetos\06Encapsulation\bin\Debug\net8.0\06Encapsulation.runtimeconfig.json
+D:\orientacao-a-objetos\06Encapsulation\bin\Debug\net8.0\06Encapsulation.dll
+D:\orientacao-a-objetos\06Encapsulation\bin\Debug\net8.0\06Encapsulation.pdb
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\06Encapsulation.dll
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\refint\06Encapsulation.dll
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\06Encapsulation.pdb
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\06Encapsulation.genruntimeconfig.cache
+D:\orientacao-a-objetos\06Encapsulation\obj\Debug\net8.0\ref\06Encapsulation.dll

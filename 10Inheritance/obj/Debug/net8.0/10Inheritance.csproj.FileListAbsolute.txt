@@ -1,0 +1,14 @@
+D:\orientacao-a-objetos\10Inheritance\bin\Debug\net8.0\10Inheritance.exe
+D:\orientacao-a-objetos\10Inheritance\bin\Debug\net8.0\10Inheritance.deps.json
+D:\orientacao-a-objetos\10Inheritance\bin\Debug\net8.0\10Inheritance.runtimeconfig.json
+D:\orientacao-a-objetos\10Inheritance\bin\Debug\net8.0\10Inheritance.dll
+D:\orientacao-a-objetos\10Inheritance\bin\Debug\net8.0\10Inheritance.pdb
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\10Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\10Inheritance.AssemblyInfoInputs.cache
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\10Inheritance.AssemblyInfo.cs
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\10Inheritance.csproj.CoreCompileInputs.cache
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\10Inheritance.dll
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\refint\10Inheritance.dll
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\10Inheritance.pdb
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\10Inheritance.genruntimeconfig.cache
+D:\orientacao-a-objetos\10Inheritance\obj\Debug\net8.0\ref\10Inheritance.dll

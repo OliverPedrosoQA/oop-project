@@ -1,0 +1,14 @@
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\09This.AssemblyInfoInputs.cache
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\09This.AssemblyInfo.cs
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\09This.csproj.CoreCompileInputs.cache
+D:\orientacao-a-objetos\09This\bin\Debug\net8.0\09This.exe
+D:\orientacao-a-objetos\09This\bin\Debug\net8.0\09This.deps.json
+D:\orientacao-a-objetos\09This\bin\Debug\net8.0\09This.runtimeconfig.json
+D:\orientacao-a-objetos\09This\bin\Debug\net8.0\09This.dll
+D:\orientacao-a-objetos\09This\bin\Debug\net8.0\09This.pdb
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\09This.dll
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\refint\09This.dll
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\09This.pdb
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\09This.genruntimeconfig.cache
+D:\orientacao-a-objetos\09This\obj\Debug\net8.0\ref\09This.dll

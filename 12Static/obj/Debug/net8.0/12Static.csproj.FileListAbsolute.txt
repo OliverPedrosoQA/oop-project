@@ -1,0 +1,14 @@
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\12Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\12Static.AssemblyInfoInputs.cache
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\12Static.AssemblyInfo.cs
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\12Static.csproj.CoreCompileInputs.cache
+D:\orientacao-a-objetos\12Static\bin\Debug\net8.0\12Static.exe
+D:\orientacao-a-objetos\12Static\bin\Debug\net8.0\12Static.deps.json
+D:\orientacao-a-objetos\12Static\bin\Debug\net8.0\12Static.runtimeconfig.json
+D:\orientacao-a-objetos\12Static\bin\Debug\net8.0\12Static.dll
+D:\orientacao-a-objetos\12Static\bin\Debug\net8.0\12Static.pdb
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\12Static.dll
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\refint\12Static.dll
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\12Static.pdb
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\12Static.genruntimeconfig.cache
+D:\orientacao-a-objetos\12Static\obj\Debug\net8.0\ref\12Static.dll
